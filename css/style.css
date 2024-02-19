@@ -1,0 +1,30 @@
+.font-inter {
+    font-family: "Inter", sans-serif;
+  }
+
+  .font-raleway {
+    font-family: "Raleway", sans-serif;
+  }
+
+  .font-Rroboto {
+    font-family: "Roboto", sans-serif;
+  }
+
+  body {
+    font-family: "Roboto", sans-serif;
+    color: #030712;
+  }
+
+  table {
+    width: 100%;
+    letter-spacing: 1px;
+    table-layout: auto;
+  }
+
+  thead {
+    font-weight: bold;
+  }
+  td {
+    padding: 10px;
+    text-align: center;
+  }
